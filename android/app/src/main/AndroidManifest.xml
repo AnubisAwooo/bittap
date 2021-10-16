@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.untitled">
+    package="com.example.bittap">
    <application
-        android:label="untitled"
+        android:label="bittap"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
