@@ -1,4 +1,4 @@
-package com.example.bittap
+package com.example.bittap_offline
 
 import io.flutter.embedding.android.FlutterActivity
 

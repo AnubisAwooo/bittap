@@ -1,4 +1,4 @@
-# bittap
+# bittap_offline
 
 A new Flutter project.
 
